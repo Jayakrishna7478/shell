@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DevOps tool=("Linux" "Git" "aws" "terraform" "CICD" "Jenkins" "Docker" "Kubernetes")
+DevOpstool=("Linux" "Git" "aws" "terraform" "CICD" "Jenkins" "Docker" "Kubernetes")
 
 echo "first value: ${DevOps tool[0]}"
 
